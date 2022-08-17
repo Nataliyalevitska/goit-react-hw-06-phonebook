@@ -1,0 +1,20 @@
+{
+  "phonebook": {
+    "title": "Phone book",
+    "subtitle": "Contacts list"
+  },
+  "contactForm": {
+    "label": "Name and surname",
+    "placeholder": "Type name a new contact",
+    "labelNum": "Tel. number",
+    "placeholderNum": "Add, number contact",
+    "button": "Add contact"
+  },
+  "filter": {
+    "p": "Search by name",
+    "filterPlaceholder": "Start type name"
+  },
+  "contactList": {
+    "delete": "delete"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "phonebook": {
+    "title": "Телефонна книга",
+    "subtitle": "Список контактів"
+  },
+  "contactForm": {
+    "label": "Прізвище та імʼя",
+    "placeholder": "Введи імʼя нового контакту",
+    "labelNum": "Моб. номер",
+    "placeholderNum": "Додай, номер контакта",
+    "button": "Додати контакт"
+  },
+  "filter": {
+    "p": "Пошук по імені",
+    "filterPlaceholder": "Почни вводити імʼя"
+  },
+  "contactList": {
+    "delete": "видалити"
+  }
+}
